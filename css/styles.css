@@ -1,0 +1,69 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 200%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50 auto 0 auto;
+  font-family: 'Licorice', cursive;
+  color: #5584AC;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Nanum Gothic', cursive;
+  color: #5584AC;
+}
+
+header {
+  padding-bottom: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 2.5rem;
+  color: #5584AC;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+div {
+  background-color: #F6F2D4;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+p {
+  font-size: 20px;
+  color: #22577E;
+}
